@@ -1,0 +1,3 @@
+This is an example of custom date, see the date of the commit.
+
+The date of the commit of this file is December 31, 1970.
